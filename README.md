@@ -8,7 +8,7 @@
 
 ##Erster Auftritt vom Lamborghini Huracán
 
-Der Lamborghini Huracán[^1] wurde im Jahr ~~2015~~ <mark>**2014**</mark> auf dem 
+Der Lamborghini Huracán[^1] wurde im Jahr <mark>**2014**</mark> auf dem 
 Genfer Auto-Salon vorgestellt und im *Frühjahr 2014* an die ersten Kunden ausgeliefert.
 
 [^1]: ZurFußnote
@@ -98,6 +98,10 @@ Syntax Code:
 "age": 25
 }
 ```
+
+~~Der Lamborghini Huracán[^1] wurde im Jahr <mark>**2014**</mark> auf dem
+Genfer Auto-Salon vorgestellt und im *Frühjahr 2014* an die ersten Kunden ausgeliefert.~~
+
 
 ##Quellen
 [Wikipedia](https://de.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n) <br>
