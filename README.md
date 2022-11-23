@@ -11,7 +11,7 @@
 Der Lamborghini Huracán[^1] wurde im Jahr <mark>**2014**</mark> auf dem 
 Genfer Auto-Salon vorgestellt und im *Frühjahr 2014* an die ersten Kunden ausgeliefert.
 
-[^1]: ZurFußnote
+[^1]: https://www.lamborghini.com/en-en
 
 ---
 
